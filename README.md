@@ -21,10 +21,8 @@ For this study, I primarily used a varienty of sources. Many of these recommenda
 
   | Activity | Activity Type| Tickets or Reservations |
 |----------|----------|
-| Game Title | Name of the game | 
-| Genre | Genre(s) of the video game | 
-| Year Published | Indicates the year the game was released in the USA |
-| Game Purchase Price | How much the game costs upon release, in US dollars |
+| Name of Activity | This is a brief description of the activity | Does it require any ticket or reservations? |
+| What kind of activity is this? | Water, Hike, Tour or Entertainment|  Does it require any ticket or reservations? |
 
 # Potential Questions this Database can Answer:
 1) What is the most popular Nintendo game?
