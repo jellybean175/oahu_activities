@@ -1,0 +1,18 @@
+-- Task 1: Count the number of hikes
+SELECT COUNT(*) AS "Number of Hikes"
+FROM csv.`/path/to/OahuActivities.csv`
+WHERE "Activity Type" = 'Hike';
+
+-- Task 2: Count the number of activities that do not require a ticket or reservation
+SELECT COUNT(*) AS "Number of Activities Without Ticket or Reservation"
+FROM csv.`/path/to/OahuActivities.csv`
+WHERE "Reservation or Tickets" = 'Just Show Up';
+
+-- Task 3: Order activities by cost (treat 'Free' as 0)
+SELECT "Activity Name", "Cost"
+FROM csv.`/path/to/OahuActivities.csv`
+ORDER BY 
+    CASE 
+        WHEN "Cost" = 'Free' THEN 0 
+        ELSE CAST("Cost" AS NUMERIC) 
+    END;
