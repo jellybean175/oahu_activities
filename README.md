@@ -25,13 +25,13 @@ For this study, I primarily used a varienty of sources. Many of these recommenda
 | What kind of activity is this? | Water, Hike, Tour or Entertainment|  Does it require any ticket or reservations? |
 
 # Potential Questions this Database can Answer:
-1) What is the most popular Nintendo game?
-2) What Nintendo system had the most games in the top 100?
-3) What was the average price for a video game?
-4) Which game developers got published by Nintendo?
-5) How many players can play each game?
+1) What kind of activities can I do on Oahu?
+2) How much do these activities cost?
+3) Do I need to make a reservation or can I just show up?
+4) What activities can I do with a group?
+5) Are there any activities I can do myself?
 
 # Conclusion
-This database's objective is to show what gamers vote as the best Nintendo games of all time. This information can be valuable for gamers and developers, helping them make informed decisions based on a larger community.
+This database's objective is to provide information to tourists who plan to visit Oahu. It can help them figure out a budget, and learn about what possibilities there are prior to their trip
 
 
