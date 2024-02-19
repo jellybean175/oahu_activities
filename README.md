@@ -19,7 +19,7 @@ This database takes into consideration a variety of audience members:
 
 For this study, I primarily used a varienty of sources. Many of these recommendations came from travel sites, such as "[Trip Advisor](https://www.tripadvisor.com/)", "[Viator](https://www.viator.com/?m=28353&supag=1417286171&supsc=kwd-270303623&supai=293159108831&supap=&supdv=c&supnt=nt:g&suplp=9007779&supli=&supti=kwd-270303623&tsem=true&supci=kwd-270303623&supap1=&supap2=&gad_source=1&gclid=CjwKCAiAlcyuBhBnEiwAOGZ2S9dT8VZdYywO7M343GVVy2_bf5ru5wDDThtB8IFCSfl4OgQQnkXOohoCxgkQAvD_BwE)" and  "[TourScanner](https://tourscanner.com/s/oahu/i/scavenger-games?myks_source=blog&myks_campaign=todooahueng)" 
 
-| Column | Attributes |
+  | Activity | Activity Type| Tickets or Reservations |
 |----------|----------|
 | Game Title | Name of the game | 
 | Genre | Genre(s) of the video game | 
